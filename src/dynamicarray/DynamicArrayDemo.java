@@ -7,6 +7,7 @@ public class DynamicArrayDemo {
         dynamicArray.add(55);
         dynamicArray.add(55);
         dynamicArray.add(55);
+        dynamicArray.add(55);
         dynamicArray.getByIndex(1);
         dynamicArray.print();
 
